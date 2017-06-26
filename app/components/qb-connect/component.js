@@ -1,0 +1,1 @@
+export { default } from 'ember-quickbooks/components/qb-connect/component';
