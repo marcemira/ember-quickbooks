@@ -6,6 +6,7 @@ import layout from './template';
 
 export default Ember.Component.extend({
   layout,
+  classNames: 'qb-quickbook-connect',
 
   didInsertElement() {
     this._super(...arguments);
